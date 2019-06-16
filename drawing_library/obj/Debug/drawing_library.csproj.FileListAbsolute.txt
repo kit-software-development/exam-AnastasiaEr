@@ -1,0 +1,10 @@
+C:\Users\Настя\Desktop\ООП\drawing\drawing_library\bin\Debug\drawing_library.dll
+C:\Users\Настя\Desktop\ООП\drawing\drawing_library\bin\Debug\drawing_library.pdb
+C:\Users\Настя\Desktop\ООП\drawing\drawing_library\obj\Debug\drawing_library.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Desktop\ООП\drawing\drawing_library\obj\Debug\drawing_library.dll
+C:\Users\Настя\Desktop\ООП\drawing\drawing_library\obj\Debug\drawing_library.pdb
+C:\Users\Настя\Desktop\drawing\drawing_library\bin\Debug\drawing_library.dll
+C:\Users\Настя\Desktop\drawing\drawing_library\bin\Debug\drawing_library.pdb
+C:\Users\Настя\Desktop\drawing\drawing_library\obj\Debug\drawing_library.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Desktop\drawing\drawing_library\obj\Debug\drawing_library.dll
+C:\Users\Настя\Desktop\drawing\drawing_library\obj\Debug\drawing_library.pdb

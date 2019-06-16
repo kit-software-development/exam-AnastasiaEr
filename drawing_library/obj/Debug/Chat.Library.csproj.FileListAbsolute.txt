@@ -1,0 +1,10 @@
+\\feanor\students\olgfil\visual studio 2017\Projects\Chat.Server\Chat.Library\bin\Debug\Chat.Library.dll
+\\feanor\students\olgfil\visual studio 2017\Projects\Chat.Server\Chat.Library\bin\Debug\Chat.Library.pdb
+\\feanor\students\olgfil\visual studio 2017\Projects\Chat.Server\Chat.Library\obj\Debug\Chat.Library.csprojResolveAssemblyReference.cache
+\\feanor\students\olgfil\visual studio 2017\Projects\Chat.Server\Chat.Library\obj\Debug\Chat.Library.dll
+\\feanor\students\olgfil\visual studio 2017\Projects\Chat.Server\Chat.Library\obj\Debug\Chat.Library.pdb
+E:\Университет\Курс3\_Semester_6\C#\OFlash\Практика\Chat.Server\Chat.Library\obj\Debug\Chat.Library.csprojResolveAssemblyReference.cache
+E:\Университет\Курс3\_Semester_6\C#\OFlash\Практика\Chat.Server\Chat.Library\obj\Debug\Chat.Library.dll
+E:\Университет\Курс3\_Semester_6\C#\OFlash\Практика\Chat.Server\Chat.Library\obj\Debug\Chat.Library.pdb
+E:\Университет\Курс3\_Semester_6\C#\OFlash\Практика\Chat.Server\Chat.Library\bin\Debug\Chat.Library.dll
+E:\Университет\Курс3\_Semester_6\C#\OFlash\Практика\Chat.Server\Chat.Library\bin\Debug\Chat.Library.pdb
